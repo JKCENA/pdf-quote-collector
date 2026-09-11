@@ -1,0 +1,21 @@
+.DS_Store
+.Rhistory
+.build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.app/
+
+# Local captures and generated notes must never be committed.
+Captures/
+Exports/
+*.docx
+*.rtf
+*.pdf
+*.png
+*.tiff
+*.heic
+
+# Local IDE and package state.
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+.swiftpm/configuration/
